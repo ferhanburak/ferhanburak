@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Ferhan Burak Özkan</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on **Web**
+- 🔭 I’m currently working on **Mobil**
 
-- 🌱 I’m currently learning **react,javascript**
+- 🌱 I’m currently learning **flutter,dart**
 
 - 📫 How to reach me **ferhanburak@gmail.com**
 
