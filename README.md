@@ -21,7 +21,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **TrackSnap** | GPS driving & route-recording app, live on Google Play. Background location tracking, App Check, closed testing with 20+ users | React Native · Expo · TypeScript · Firebase |
+| **[TrackSnap](https://play.google.com/store/apps/details?id=com.ferhanburak.tracksnap)**<br/><a href="https://play.google.com/store/apps/details?id=com.ferhanburak.tracksnap"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white" alt="Get it on Google Play"/></a> | GPS driving & route-recording app, live on Google Play. Background location tracking, App Check, closed testing with 20+ users | React Native · Expo · TypeScript · Firebase |
 | **[ScoliSense](https://github.com/ScoliSense)** | Smart scoliosis brace: streams sensor data over BLE to a mobile app, with a web portal for clinicians | Flutter · Angular · Arduino · BLE |
 | **[BALSA Dekor](https://balsadekor.com)** | Live furniture catalog with 50+ products and an admin panel, deployed with CI/CD | Next.js · Firebase · Vercel |
 | **[Çeltikci Law Firm](https://www.celtikci.av.tr)** | Responsive corporate website for a law firm | Web |
@@ -51,4 +51,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-dark.svg">
   <img alt="Contribution graph" src="assets/contrib-light.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferhanburak/ferhanburak/output/github-snake-dark.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ferhanburak/ferhanburak/output/github-snake.svg">
 </picture>
