@@ -1,24 +1,54 @@
-<h1 align="center">Hi, I'm Ferhan Burak Özkan</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="center">Hi, I'm Ferhan Burak Özkan 👋</h1>
+<h3 align="center">Software Engineer · Mobile & Web · Network Security</h3>
 
-- 🔭 I’m currently working on **Mobil**
-
-- 🌱 I’m currently learning **flutter,dart**
-
-- 📫 How to reach me **ferhanburak@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ferhan-burak-özkan-baa829227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferhanburaközkan" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/ferhan-burak-özkan-baa829227/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ferhanburak@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://balsadekor.com"><img src="https://img.shields.io/badge/balsadekor.com-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="balsadekor.com"/></a>
+  <a href="https://www.celtikci.av.tr"><img src="https://img.shields.io/badge/celtikci.av.tr-1F3A5F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="celtikci.av.tr"/></a>
 </p>
 
-<h3 align="left">Contributions:</h3>
+## About me
+
+- 🎓 Software Engineering (English) graduate, **Çankaya University**, 2025
+- 📱 I build and ship end-to-end products: mobile apps on Google Play, production websites on custom domains, and the backends behind them
+- 🛡️ Network security background: firewall, IDS/IPS and log analysis
+- 🏆 **1st place** at Çankaya University's 18th R&D Project Market with **ScoliSense** (TÜBİTAK 2209-A, patent application filed)
+- 🌍 Presented an AI-based smart energy management system (AEYS) at the **COP31 Startup Zone**, Antalya 2026
+- 💼 Open to junior software, cloud and network engineering roles
+
+## 🚀 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **TrackSnap** | GPS driving & route-recording app, live on Google Play. Background location tracking, App Check, closed testing with 20+ users | React Native · Expo · TypeScript · Firebase |
+| **[ScoliSense](https://github.com/ScoliSense)** | Smart scoliosis brace: streams sensor data over BLE to a mobile app, with a web portal for clinicians | Flutter · Angular · Arduino · BLE |
+| **[BALSA Dekor](https://balsadekor.com)** | Live furniture catalog with 50+ products and an admin panel, deployed with CI/CD | Next.js · Firebase · Vercel |
+| **[Çeltikci Law Firm](https://www.celtikci.av.tr)** | Responsive corporate website for a law firm | Web |
+| **[Mülakat Koçu](https://github.com/ferhanburak/mulakat-kocu)** | Interview practice coach *(in progress)* | Mobile |
+| **[Optik Sınav Koçu](https://github.com/ferhanburak/optik-sinav-kocu)** | Optical-form exam practice coach *(in progress)* | Mobile |
+| **[test-hub](https://github.com/ferhanburak/test-hub)** | One shared test-automation system for all my projects *(in progress)* | Vitest · Playwright · Maestro · Firebase Emulator |
+| **[Turkish LLM Fine-Tuning](https://github.com/ferhanburak/Fine-Tuning-Turkish-Text-Generation)** | Fine-tuned open-source LLMs for Turkish with LoRA and 4-bit quantization | Python · Unsloth · PyTorch |
+| **[Traffic Sign Classifier](https://github.com/ferhanburak/TrafficSignImageClassifaction)** | CNN reaching 98% test accuracy across 42 classes | Python · PyTorch |
+
+## 💼 Experience
+
+- **CBERNET** · Cyber Security & Network Engineer Intern *(Oct 2025 – Sep 2026)*: firewall, IDS/IPS, log analysis
+- **Nokia** · Software Engineer Intern *(2025)*: AI chatbot, Selenium test automation, Agile
+- **BOTAŞ** · Mobile Development Intern *(2023)*: Flutter inventory app, database synchronization
+
+## 🛠️ Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,dart,py,java,c,cs&perline=14" alt="Languages"/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,flutter,html,css&perline=14" alt="Frontend and mobile"/><br/>
+  <img src="https://skillicons.dev/icons?i=firebase,postgres,mysql,mongodb,pytorch&perline=14" alt="Backend, data and ML"/><br/>
+  <img src="https://skillicons.dev/icons?i=git,docker,vercel,selenium,postman,unity&perline=14" alt="Tools"/>
+</p>
+
+## 📈 Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-dark.svg">
   <img alt="Contribution graph" src="assets/contrib-light.svg">
 </picture>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-
