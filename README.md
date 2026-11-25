@@ -24,7 +24,7 @@
 | **[TrackSnap](https://play.google.com/store/apps/details?id=com.ferhanburak.tracksnap)**<br/><a href="https://play.google.com/store/apps/details?id=com.ferhanburak.tracksnap"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white" alt="Get it on Google Play"/></a> | GPS driving & route-recording app, live on Google Play. Background location tracking, App Check, closed testing with 20+ users | React Native · Expo · TypeScript · Firebase |
 | **[ScoliSense](https://github.com/ScoliSense)** | Smart scoliosis brace: streams sensor data over BLE to a mobile app, with a web portal for clinicians | Flutter · Angular · Arduino · BLE |
 | **[BALSA Dekor](https://balsadekor.com)** | Live furniture catalog with 50+ products and an admin panel, deployed with CI/CD | Next.js · Firebase · Vercel |
-| **[Çeltikci Law Firm](https://www.celtikci.av.tr)** | Responsive corporate website for a law firm | Web |
+| **[Çeltikci Law Firm](https://www.celtikci.av.tr)**<br/><a href="https://github.com/ferhanburak/celtikci-law-firm/actions/workflows/test-hub.yml"><img src="https://github.com/ferhanburak/celtikci-law-firm/actions/workflows/test-hub.yml/badge.svg?branch=main" alt="Tests"/></a> | Responsive corporate website for a law firm, tested on every push via test-hub | Web |
 | **[Mülakat Koçu](https://github.com/ferhanburak/mulakat-kocu)** | Interview practice coach *(in progress)* | Mobile |
 | **[Optik Sınav Koçu](https://github.com/ferhanburak/optik-sinav-kocu)** | Optical-form exam practice coach *(in progress)* | Mobile |
 | **[test-hub](https://github.com/ferhanburak/test-hub)** | One shared test-automation system for all my projects *(in progress)* | Vitest · Playwright · Maestro · Firebase Emulator |
