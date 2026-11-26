@@ -48,7 +48,8 @@ def main():
         except Exception as e:  # erişim yoksa eski rozeti koru
             print(f"{repo}: okunamadı ({e}), atlandı", file=sys.stderr)
             continue
-        data = {"schemaVersion": 1, "label": "tests", **badge(c)}
+        # Same look as GitHub's own workflow badge (used for the public repos).
+        data = {"schemaVersion": 1, "label": "test-hub", "namedLogo": "github", "logoColor": "white", **badge(c)}
         with open(f"assets/{name}.json", "w") as f:
             json.dump(data, f)
         print(f"{name}: {data['message']}")
